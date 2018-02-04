@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\sumom\smartshowerapp_v2\PruebaGradiente Retrofit\PruebaGradiente Retrofit.iml" filepath="C:\Users\sumom\smartshowerapp_v2\PruebaGradiente Retrofit\PruebaGradiente Retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaGradiente Retrofit Blue2.iml" filepath="$PROJECT_DIR$/PruebaGradiente Retrofit Blue2.iml" />
+      <module fileurl="file://C:\Users\sumom\Desktop\SmartShowerCopiaSeguridad\PruebaGradiente Retrofit Blue2\PruebaGradiente Retrofit Blue2.iml" filepath="C:\Users\sumom\Desktop\SmartShowerCopiaSeguridad\PruebaGradiente Retrofit Blue2\PruebaGradiente Retrofit Blue2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\sumom\smartshowerapp_v2\PruebaGradiente Retrofit\app\app.iml" filepath="C:\Users\sumom\smartshowerapp_v2\PruebaGradiente Retrofit\app\app.iml" />
+      <module fileurl="file://C:\Users\sumom\Desktop\SmartShowerCopiaSeguridad\PruebaGradiente Retrofit Blue2\app\app.iml" filepath="C:\Users\sumom\Desktop\SmartShowerCopiaSeguridad\PruebaGradiente Retrofit Blue2\app\app.iml" />
+    </modules>
+  </component>
+</project>
