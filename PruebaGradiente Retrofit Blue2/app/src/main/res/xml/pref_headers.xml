@@ -1,0 +1,20 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+
+
+    <header
+        android:fragment="com.mramallo.pruebagradiente.activities.SettingsActivity$LitrosMaximosFragment"
+        android:icon="@drawable/ic_003_drop_silhouette"
+        android:title="@string/pref_header_general"/>
+
+    <header
+        android:fragment="com.mramallo.pruebagradiente.activities.SettingsActivity$DireccionFragment"
+        android:icon="@drawable/ic_001_users_group"
+        android:title="@string/pref_header_notifications" />
+
+
+
+
+</preference-headers>
