@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Smart Shower</string>
+    <string name="title_activity_asistente_registro">AsistenteRegistroActivity</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_header_general">Litros máximos</string>
+    <string name="pref_header_notifications">Información del usuario</string>
+
+    <string name="pref_title_display_name">Litros máximos que quiere de tope</string>
+    <string name="pref_default_display_direccion">Triana</string><!--datos metidos por preferencias-->
+    <string name="pref_default_display_litros_maximos">200</string><!--datos metidos por preferencias-->
+    <string name="pref_default_display_num_personas">3</string><!--datos metidos por preferencias-->
+    <string name="pref_default_display_password">12345</string>
+    <string name="pref_tittle_sync_direccion">Cambiar dirección</string>
+    <string name="pref_header_data_sync">Número de personas</string>
+    <string name="pref_tittle_sync_litros_maximos">Litros máximos</string>
+    <string name="pref_title_sync_num_personas">Cambiar cantidad de personas en el domicilio</string>
+    <string name="pref_ttitle_sync_password">Cambiar contraseña</string>
+    <string name="title_activity_settings">Configuracion</string>
+
+
+</resources>

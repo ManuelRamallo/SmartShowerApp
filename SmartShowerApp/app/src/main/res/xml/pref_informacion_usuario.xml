@@ -1,0 +1,33 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:id="@+id/editTextNumPersonas"
+        android:capitalize="words"
+        android:defaultValue="@string/pref_default_display_num_personas"
+        android:inputType="textCapWords"
+        android:key="editTextNumPersConfig"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_sync_num_personas" />
+
+    <EditTextPreference
+        android:id="@+id/editTextCambiarDireccion"
+        android:capitalize="words"
+        android:defaultValue="@string/pref_default_display_direccion"
+        android:inputType="textCapWords"
+        android:key="editTextAddressConfig"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_tittle_sync_direccion" />
+    <EditTextPreference
+        android:id="@+id/editTextCambiarPassword"
+        android:capitalize="words"
+        android:defaultValue="@string/pref_default_display_password"
+        android:inputType="textCapWords"
+        android:key="editTextPassConfig"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_ttitle_sync_password" />
+
+</PreferenceScreen>
