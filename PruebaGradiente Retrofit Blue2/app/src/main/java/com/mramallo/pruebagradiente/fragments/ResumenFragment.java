@@ -112,7 +112,7 @@ public class ResumenFragment extends Fragment {
 
 //
 //        tvLimiteLitros.setText("Litros máximos gastados: " +litrosMax +"L");
-       Log.i("RESULT", "Limite Litros: " +tvLimiteLitros.getText().toString() +" Litros gastados: " +tvLitrosGastados);
+       //Log.i("RESULT", "Limite Litros: " +tvLimiteLitros.getText().toString() +" Litros gastados: " +tvLitrosGastados);
 
 
         Call<Consumo2[]> call = api.showConsumeToday(token, new ArduinoDevice(id_placa));
@@ -131,7 +131,7 @@ public class ResumenFragment extends Fragment {
                         consumoTotal += consumo.getConsumo();
                     }
 
-                    Toast.makeText(getActivity(), "Dentro de enqueue: " + consumoTotal, Toast.LENGTH_SHORT).show();
+                    //Toast.makeText(getActivity(), "Dentro de enqueue: " + consumoTotal, Toast.LENGTH_SHORT).show();
                     //tvLimiteLitros.setText("Litros cosumidos hoy: " +consumoTotal+"L");
 
                 }
